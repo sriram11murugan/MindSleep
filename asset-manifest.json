@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sriram11murugan/MindSleep.git/static/css/main.fbac696a.css",
+    "main.js": "/sriram11murugan/MindSleep.git/static/js/main.ae8d4fdc.js",
+    "static/media/mindsleep-logo.jpg": "/sriram11murugan/MindSleep.git/static/media/mindsleep-logo.96d0a8622c1b48a2c0e3.jpg",
+    "index.html": "/sriram11murugan/MindSleep.git/index.html",
+    "main.fbac696a.css.map": "/sriram11murugan/MindSleep.git/static/css/main.fbac696a.css.map",
+    "main.ae8d4fdc.js.map": "/sriram11murugan/MindSleep.git/static/js/main.ae8d4fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbac696a.css",
+    "static/js/main.ae8d4fdc.js"
+  ]
+}
