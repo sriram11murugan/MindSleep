@@ -20,7 +20,7 @@ function App() {
       </div>
 
       <footer className="footer">
-        © 2025 MindSleep | Sleep-based Depression Risk Monitoring
+        © 2026 MindSleep | Sleep-based Depression Risk Monitoring
       </footer>
     </div>
   );
