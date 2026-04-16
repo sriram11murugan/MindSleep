@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mindsleep/static/css/main.38a8e8cc.css",
-    "main.js": "/mindsleep/static/js/main.7b6d6147.js",
+    "main.js": "/mindsleep/static/js/main.857e0ba3.js",
     "static/media/mindsleep-logo.jpg": "/mindsleep/static/media/mindsleep-logo.f6372534fa73d6c13480.jpg",
     "index.html": "/mindsleep/index.html",
     "main.38a8e8cc.css.map": "/mindsleep/static/css/main.38a8e8cc.css.map",
-    "main.7b6d6147.js.map": "/mindsleep/static/js/main.7b6d6147.js.map"
+    "main.857e0ba3.js.map": "/mindsleep/static/js/main.857e0ba3.js.map"
   },
   "entrypoints": [
     "static/css/main.38a8e8cc.css",
-    "static/js/main.7b6d6147.js"
+    "static/js/main.857e0ba3.js"
   ]
 }
